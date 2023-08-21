@@ -18,7 +18,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "fkill :3000 :5001 -s && concurrently --handle-input \"npm:api\" \"npm:cra\"",
+    "start": "fkill :3000 :5001 -f -s && concurrently --handle-input \"npm:api\" \"npm:cra\"",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
