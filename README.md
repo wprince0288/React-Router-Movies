@@ -15,7 +15,7 @@
 * [ ] Execute `npm install` to download dependencies. The `react-router-dom` library is already installed!
 * [ ] Execute `npm run start` to launch your Movies application in Chrome.
 
-**Once your application is up and running**, you should see a browser window that looks like [this](https://tk-assets.lambdaschool.com/c6b3e8d8-afe0-4663-82da-60b1de76f649_movies-home.png) at `http://localhost:3000`.
+**Once your application is up and running**, you should see a browser window that looks like [this](./design-files/design-1-starter.png) at `http://localhost:3000`.
 
 ### Task 2: MVP
 
@@ -23,8 +23,8 @@
 
 Once you are done your application will have two routes:
 
-* [ ] [Screenshot of route '/'](https://tk-assets.lambdaschool.com/b9ced241-681f-432a-9047-ef2ba7e34946_first-route.png)
-* [ ] [Screenshot of route '/movies/:id'](https://tk-assets.lambdaschool.com/06f9f448-2804-4b4a-9408-41904af96a4e_second-route.png)
+* [ ] [Screenshot of route '/'](./design-files/design-2-routeA.png)
+* [ ] [Screenshot of route '/movies/:id'](./design-files/design-3-routeB.png)
 
 #### Set up Routes
 
